@@ -6,7 +6,7 @@ import numpy as np
 How to set up the game:
 ---
 Please install easyAI with `pip3 install easyAI`
-and run thegame with: `python3 connect_four.py`
+and run the game with: `python3 connect_four.py`
 
 
 How to play:
