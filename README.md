@@ -1,3 +1,3 @@
 # AI projects
 
-Please select branch to display a project.
+Please select directory to display a project.
