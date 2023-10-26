@@ -2,7 +2,7 @@
 
 The program is a fuzzy logic controller for a music player volume.  
 It bases on 3 inputs:
-- user heart beat as beat per minut,
+- user heart beat as beat per minute,
 - surrounding noise as decibels,
 - music beat rate as beat per minute.
 
