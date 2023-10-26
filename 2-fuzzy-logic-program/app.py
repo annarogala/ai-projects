@@ -28,7 +28,7 @@ music_volume_sim.input['heart_beat'] = <give_your_heart_beat>
 music_volume_sim.input['surrounding_noise'] = <give_surrounding_noise>
 music_volume_sim.input['music_beat_rate'] = <give_music_beat_rate>
 
-save and run the program with: `app.py`
+save and run the program with: `python3 app.py`
 
 
 Authors:
@@ -77,8 +77,8 @@ music_volume_ctrl = ctrl.ControlSystem([rule1, rule2, rule3, rule4, rule5, rule6
 
 music_volume_sim = ctrl.ControlSystemSimulation(music_volume_ctrl)
 
-music_volume_sim.input['heart_beat'] = 45
-music_volume_sim.input['surrounding_noise'] = 40
+music_volume_sim.input['heart_beat'] = 80
+music_volume_sim.input['surrounding_noise'] = 106
 music_volume_sim.input['music_beat_rate'] = 60
 
 music_volume_sim.compute()
