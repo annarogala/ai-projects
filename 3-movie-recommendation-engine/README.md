@@ -18,16 +18,24 @@ The program will print top 5 movie recommendations and 5 movies not recommended 
 ## Usage example:
 
 **Example 1**:
-![Usage video](mre-demo-1.mp4)
+<video width="320" height="240" controls>
+  <source src="mre-demo-1.mp4" type="video/mp4">
+</video>
 
 **Example 2**:
-![Usage video](mre-demo-2.mp4)
+<video width="320" height="240" controls>
+  <source src="mre-demo-2.mp4" type="video/mp4">
+</video>
 
 **Example 3**:
-![Usage video](mre-demo-3.mp4)
+<video width="320" height="240" controls>
+  <source src="mre-demo-3.mp4" type="video/mp4">
+</video>
 
 **Example 4**:
-![Usage video](mre-demo-4.mp4)
+<video width="320" height="240" controls>
+  <source src="mre-demo-4.mp4" type="video/mp4">
+</video>
 
 ## Authors:
 Adam Łuszcz s22994  
