@@ -18,24 +18,21 @@ The program will print top 5 movie recommendations and 5 movies not recommended 
 ## Usage example:
 
 **Example 1**:
-<video width="320" height="240" controls>
-  <source src="mre-demo-1.mp4" type="video/mp4">
-</video>
+
+https://github.com/annarogala/ai-projects/assets/13242654/86adaa6b-2e82-4031-bcc1-7cdd44f82050
 
 **Example 2**:
-<video width="320" height="240" controls>
-  <source src="mre-demo-2.mp4" type="video/mp4">
-</video>
+
+https://github.com/annarogala/ai-projects/assets/13242654/39fb1ab3-44ca-41b2-9848-2a32950be543
 
 **Example 3**:
-<video width="320" height="240" controls>
-  <source src="mre-demo-3.mp4" type="video/mp4">
-</video>
+
+https://github.com/annarogala/ai-projects/assets/13242654/96e29c57-7094-4323-a220-98c1acce0e25
 
 **Example 4**:
-<video width="320" height="240" controls>
-  <source src="mre-demo-4.mp4" type="video/mp4">
-</video>
+
+https://github.com/annarogala/ai-projects/assets/13242654/4f1f26d1-95fd-40a0-9c88-86f760119c92
+
 
 ## Authors:
 Adam Łuszcz s22994  
