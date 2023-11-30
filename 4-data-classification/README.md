@@ -26,6 +26,7 @@ Run the program with the following command `python3 data_classificator.py`
 The program will print the results to the console.
 
 ## Demo:
+https://github.com/annarogala/ai-projects/assets/13242654/f592c84a-373d-46d6-9833-c2a946733861
 
 ## Authors:
 
