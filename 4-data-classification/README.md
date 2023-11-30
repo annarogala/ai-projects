@@ -3,7 +3,7 @@
 The program is designed to analyze datasets using decision tree and SVM (Support Vector Machine) models.  
 It uses the sklearn library to load the datasets and train the models.
 
-The program is designed to load, preprocess, and split datasets into training and test sets.  
+The program is designed to load, preprocess and split datasets into training and test sets.  
 It also fits the provided model to the training data, evaluates it on the test data  
 and computes the model's accuracy and confusion matrix.
 
