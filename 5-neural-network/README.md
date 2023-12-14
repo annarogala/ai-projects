@@ -2,7 +2,7 @@
 
 Neural network training models built with Tensorflow library:
 
-- sonar ([dataset](https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks) with accuracy comparison to [data classificator](/../4-data-classification/data_classificator.py)) and with the confusion matrix output rendered
+- sonar ([dataset](https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks) with accuracy comparison to [data classificator](./../4-data-classification)) and with the confusion matrix output rendered
 
 ## How to set up:
 
@@ -14,15 +14,20 @@ For each model, run one of these command in a respective directory:
 
 ### sonar
 
-- sonar model: `python3 sonar_model.py`
+- sonar model: `python3 sonar_model.py`  
   The program will also show the model confusion matrix output.
 
 ## Printscreens:
 
 ### sonar
 
+Sonar model output:
 ![Sonar model output screenshot](./5.1-sonar-model/sonar_model_output.png)
+Sonar model output confusion matrix:
 ![Sonar model output confusion matrix screenshot](./5.1-sonar-model/sonar_model_confusion_matrix.png)
+
+Sonar output from [Data Classificator](./../4-data-classification)
+![sonar data classificator output](./5.1-sonar-model/sonar_output_from_data_clasificator_comparison.png)
 
 ## Authors:
 
