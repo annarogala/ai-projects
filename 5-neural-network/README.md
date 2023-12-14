@@ -28,7 +28,7 @@ Sonar model output confusion matrix:
 ![Sonar model output confusion matrix screenshot](./5.1-sonar-model/sonar_model_confusion_matrix.png)
 
 Sonar output from [Data Classificator](./../4-data-classification)  
-![Sonar data classificator output](./5.1-sonar-model/sonar_output_from_data_clasificator_comparison.png)
+![Sonar data classificator output](./5.1-sonar-model/sonar_output_from_data_clasificator.png)
 
 ## Authors:
 
