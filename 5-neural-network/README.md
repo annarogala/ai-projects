@@ -5,6 +5,7 @@ Neural network training models built with Tensorflow library:
 - sonar ([dataset](https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks) with accuracy comparison to [data classificator](./../4-data-classification)) and with the confusion matrix output rendered
 - animals ([CIFAR10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)) with comparison of two models with different number of layers and neurons
 - clothes ([zalandoresearch/fashion-mnist dataset](https://github.com/zalandoresearch/fashion-mnist))
+- phone price range ([dataset](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=train.csv))
 
 ## How to set up:
 
@@ -30,6 +31,10 @@ For each model, run one of these command in a respective directory:
 
 - for the whole dataset `python3 fashion_minst_model.py`
 - for only clothes from the dataset `python3 clothes_model.py`
+
+### phone price range
+
+- phone price range `python3 phones_price_model.py`
 
 Each program will print the model accuracy to the console.
 
@@ -66,6 +71,12 @@ Fashon mist limited to clothes only model output:
 
 ![Clothes model output screenshot](./5.3-clothes/clothes_model_output.png)
 
+### phone price range
+
+Phone price range model output:
+
+![Phone price range output screenshot](./5.4-phone-price-ranges/phone_price_ranges_model_output.png)
+
 ## Authors:
 
 Adam Łuszcz s22994  
@@ -77,3 +88,4 @@ Anna Rogala s21487
 - https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks
 - https://www.cs.toronto.edu/~kriz/cifar.html
 - https://github.com/zalandoresearch/fashion-mnist
+- https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=train.csv
