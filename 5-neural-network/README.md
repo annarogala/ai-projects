@@ -21,13 +21,14 @@ For each model, run one of these command in a respective directory:
 
 ### sonar
 
-Sonar model output:
+Sonar model output:  
 ![Sonar model output screenshot](./5.1-sonar-model/sonar_model_output.png)
-Sonar model output confusion matrix:
+
+Sonar model output confusion matrix:  
 ![Sonar model output confusion matrix screenshot](./5.1-sonar-model/sonar_model_confusion_matrix.png)
 
-Sonar output from [Data Classificator](./../4-data-classification)
-![sonar data classificator output](./5.1-sonar-model/sonar_output_from_data_clasificator_comparison.png)
+Sonar output from [Data Classificator](./../4-data-classification)  
+![Sonar data classificator output](./5.1-sonar-model/sonar_output_from_data_clasificator_comparison.png)
 
 ## Authors:
 
