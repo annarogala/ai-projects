@@ -1,4 +1,4 @@
-# Data classificator
+# Evil System
 
 This script uses OpenCV and MediaPipe for real-time human pose detection in a video feed captured from the device camera.  
 The program tracks specific landmarks of the human body.  
