@@ -20,8 +20,6 @@ Run `python3 evil_system.py` to run the script.
 
 Authors: Adam Łuszcz, Anna Rogala
 """
-
-
 import cv2
 import mediapipe as mp
 import math
