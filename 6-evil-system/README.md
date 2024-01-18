@@ -19,7 +19,7 @@ The program will start capturing the video from the device camera.
 
 ## Demo:
 
-[](evil-system-demo.gif)
+![](evil-system-demo.gif)
 
 ## Authors:
 
